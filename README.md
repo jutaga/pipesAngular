@@ -1,6 +1,8 @@
 # PipesApp
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+
+# Demo
+[DEMO](https://pipes-angular-jptg.netlify.app/)
 
 ## Development server
 
